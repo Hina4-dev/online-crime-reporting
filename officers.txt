@@ -1,0 +1,8 @@
+Username|Password|Name|Area
+Hina|123|Hina Fatima|6th road
+Ayesha|456|Ayesha Bibi|rawalpindi
+Ali|789|Ali Ahmed|islamabad
+Zoya|101|Zoya Saleem|Karachi
+Hassan|112|Hassan Ali|Lahore
+Ahmed|113|Ahmed Ali|Faizabad
+
