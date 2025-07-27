@@ -1,0 +1,7 @@
+This project is a desktop application built with Python using the Tkinter library. It allows citizens to register themselves and report crimes happening in their local area. Citizens can also login to view the status of their reported crimes. Police officers have their own login where they can view all crime reports in their assigned area, sort and filter these reports, and update the status of each report.
+
+The system stores citizen and officer data in text files. When a citizen reports a crime, the report is saved in a file specific to their area. Officers access these files to manage and track the crime reports.
+
+To use the application, a user can register as a citizen with their personal details such as full name, CNIC, contact number, and area. After registering, they can login to submit new crime reports or check the progress of previously submitted reports. Officers login with their credentials and can manage all reports for their area by viewing, sorting, filtering, and updating report statuses.
+
+This project demonstrates a simple way to build a user-friendly crime reporting system without needing a database. It uses basic file handling for storing information and provides a graphical user interface for easy interaction. The application can be extended with more features like data encryption, better user validation, or integration with a database for more secure and efficient storage.
